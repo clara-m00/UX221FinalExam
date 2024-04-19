@@ -1,0 +1,26 @@
+/*
+Theme Name:     Final Exam
+Description:    A theme for the final exam 
+Author:         Clara Mendiola
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body {
+	background-color: #FFF8E5;
+	color: #2F4858;
+}
+
+h1 {
+	color: #2F4858;
+}
+
+h2 {
+	color: #2F4858;
+}
+
+footer {
+	background-color: #A0CFD3;
+	color: #2F4858
+}
